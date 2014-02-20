@@ -1,0 +1,8 @@
+{
+    "name": "dpeuscher/DpZFExtensions",
+    "description": "Extensions to Zend Framework 2",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.x-dev"
+    }
+}
