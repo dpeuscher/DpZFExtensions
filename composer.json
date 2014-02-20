@@ -1,5 +1,5 @@
 {
-    "name": "dpeuscher/DpZFExtensions",
+    "name": "dpeuscher/dp-zf-extensions",
     "description": "Extensions to Zend Framework 2",
     "require": {
         "php": ">=5.4",
