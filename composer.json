@@ -1,6 +1,7 @@
 {
-    "name": "dpeuscher/DpZFExtensions",
+    "name": "dpeuscher/dp-zf-extensions",
     "description": "Extensions to Zend Framework 2",
+    "license": "GPL-2.0",
     "require": {
         "php": ">=5.4",
         "zendframework/zendframework": "2.3.x-dev"
